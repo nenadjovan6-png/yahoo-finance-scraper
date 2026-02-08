@@ -1,18 +1,5 @@
-# 📦 Requirements pour le projet de scraping Yahoo Finance
-# Installez avec : pip install -r requirements.txt
-
-# Version de Python
-python>=3.8
-
-# Bibliothèques principales
-requests>=2.28.0          # Pour télécharger les pages web
-beautifulsoup4>=4.11.0    # Pour analyser le HTML
-pandas>=1.5.0             # Pour manipuler les données (CSV, DataFrames)
-lxml>=4.9.0               # Parseur HTML/XML (optionnel, plus rapide que html.parser)
-
-# Pour les visualisations
-matplotlib>=3.6.0         # Pour créer des graphiques
-
-# Pour le développement (optionnel)
-jupyter>=1.0.0            # Pour exécuter les notebooks
-ipython>=8.0.0            # Console interactive améliorée
+requests==2.31.0
+beautifulsoup4==4.12.2
+pandas==2.1.0
+matplotlib==3.8.0
+jovian
