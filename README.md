@@ -46,9 +46,6 @@ Pour chaque action, le scraper extrait automatiquement :
 ```
 Projet-Yahoo-Finance-Scraping/
 │
-├── data/                          # Données extraites (ignorées par Git)
-│   └── yahoo_stocks_YYYY-MM-DD.csv
-│
 ├── Projet_Technique_scraping.py   # Script principal automatisé
 ├── Projet_Technique_scraping.ipynb # Notebook Jupyter (version détaillée/pédagogique)
 │
